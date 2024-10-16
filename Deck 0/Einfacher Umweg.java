@@ -1,6 +1,6 @@
 import codescape.Dogbot;
 
-public class MyDogbot extends : Dogbot
+public class MyDogbot extends  Dogbot
 {
     public void run()
     {
